@@ -1,0 +1,24 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2022-09-26T21:47:50.134022",
+    "startedAt": "2022-09-26T21:47:43.759079",
+    "docker": null,
+    "gpu": "NVIDIA GeForce GTX 1050 Ti with Max-Q Design",
+    "gpu_count": 1,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "c:/Users/andre/Documents/Coding Things/ML CLub/LLM-demo/reference/main.py",
+    "codePath": "reference\\main.py",
+    "git": {
+        "remote": "https://github.com/AndrewMead10/LLM-demo",
+        "commit": "703e76871585c12265863ed637f7559190daaef0"
+    },
+    "email": "ammead@umass.edu",
+    "root": "C:/Users/andre/Documents/Coding Things/ML CLub/LLM-demo",
+    "host": "DESKTOP-5HQOT65",
+    "username": "andre",
+    "executable": "C:\\Users\\andre\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+}
